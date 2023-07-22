@@ -481,6 +481,9 @@ textarea {
     .products{
         grid-template-columns: repeat(1,minmax(0,1fr));
 }
+    main{
+    width: 100%;
+}
 }
 @media(max-width:600px){
    
