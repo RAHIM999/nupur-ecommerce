@@ -485,6 +485,9 @@ textarea {
     padding: 1rem;
 max-width: 100%;   
 }
+    .profile-card{
+    max-width: 100%;
+}
 }
 @media(max-width:600px){
    
